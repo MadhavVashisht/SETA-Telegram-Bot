@@ -1,0 +1,9 @@
+SETA/
+│
+├── SETA_Final.py
+├── requirements.txt
+├── README.md
+├── recipients.json         # Auto-created or manually added
+├── separate_schedules.json # Auto-created
+├── seta_config.json        # Optional config
+└── icons/                  # (Optional) App icons
